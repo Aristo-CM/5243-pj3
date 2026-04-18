@@ -1,0 +1,401 @@
+"session_id","assigned_group","entry_timestamp","primary_goal","experience_level","recommended_plan","selected_path","selected_plan","default_option_shown","selected_plan_is_default","changed_away_from_default","completion_status","completion_timestamp","time_to_completion_seconds","confidence_rating"
+"sim_A_177","A","2026-04-17 13:42:24 EDT","academic","basic","standard","beginner","beginner",1,0,1,1,"2026-04-17 13:43:43 EDT",79.5,4
+"sim_A_101","A","2026-04-17 10:53:26 EDT","job","basic","beginner","advanced","advanced",1,0,1,1,"2026-04-17 10:55:01 EDT",95.1,4
+"sim_A_172","A","2026-04-17 10:34:43 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 10:36:11 EDT",88.3,5
+"sim_A_007","A","2026-04-17 09:25:39 EDT","personal","advanced","advanced","advanced","advanced",1,1,0,1,"2026-04-17 09:26:44 EDT",65,5
+"sim_A_169","A","2026-04-17 10:21:13 EDT","job","basic","standard","","",1,,,0,"",,
+"sim_B_159","B","2026-04-17 12:52:32 EDT","academic","advanced","advanced","advanced","advanced",0,,,1,"2026-04-17 12:53:20 EDT",48.3,3
+"sim_A_035","A","2026-04-17 17:01:38 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 17:02:52 EDT",74.7,3
+"sim_B_009","B","2026-04-17 18:26:37 EDT","job","advanced","advanced","advanced","advanced",0,,,1,"2026-04-17 18:28:58 EDT",141.3,4
+"sim_A_015","A","2026-04-17 10:15:16 EDT","personal","basic","standard","advanced","advanced",1,0,1,1,"2026-04-17 10:16:53 EDT",97,4
+"sim_B_016","B","2026-04-17 15:29:00 EDT","job","basic","standard","standard","standard",0,,,1,"2026-04-17 15:30:54 EDT",114.1,4
+"sim_B_087","B","2026-04-17 16:42:35 EDT","job","none","beginner","standard","standard",0,,,1,"2026-04-17 16:44:49 EDT",134.7,3
+"sim_A_196","A","2026-04-17 17:17:28 EDT","academic","intermediate","standard","standard","standard",1,1,0,1,"2026-04-17 17:18:11 EDT",43.7,5
+"sim_A_193","A","2026-04-17 18:51:21 EDT","job","none","beginner","advanced","advanced",1,0,1,1,"2026-04-17 18:51:53 EDT",32.8,2
+"sim_B_005","B","2026-04-17 09:12:24 EDT","switch","none","beginner","","",0,,,0,"",,
+"sim_A_106","A","2026-04-17 17:32:29 EDT","academic","basic","standard","","",1,,,0,"",,
+"sim_A_018","A","2026-04-17 12:15:28 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 12:17:12 EDT",104.8,4
+"sim_A_004","A","2026-04-17 14:52:00 EDT","switch","none","beginner","beginner","beginner",1,1,0,1,"2026-04-17 14:54:13 EDT",133.9,4
+"sim_A_160","A","2026-04-17 09:44:02 EDT","job","basic","standard","standard","standard",1,1,0,1,"2026-04-17 09:45:14 EDT",72.6,4
+"sim_A_094","A","2026-04-17 14:12:55 EDT","academic","intermediate","advanced","advanced","advanced",1,1,0,1,"2026-04-17 14:13:59 EDT",64.6,5
+"sim_A_056","A","2026-04-17 10:02:10 EDT","academic","intermediate","standard","advanced","advanced",1,0,1,1,"2026-04-17 10:03:15 EDT",65.1,3
+"sim_B_102","B","2026-04-17 13:43:04 EDT","academic","basic","standard","","",0,,,0,"",,
+"sim_A_054","A","2026-04-17 09:17:07 EDT","academic","basic","beginner","","",1,,,0,"",,
+"sim_B_197","B","2026-04-17 17:43:13 EDT","job","basic","standard","standard","standard",0,,,1,"2026-04-17 17:44:24 EDT",71.1,5
+"sim_B_001","B","2026-04-17 11:15:42 EDT","job","basic","standard","beginner","beginner",0,,,1,"2026-04-17 11:18:50 EDT",188.7,2
+"sim_A_096","A","2026-04-17 13:18:19 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 13:20:19 EDT",120.4,5
+"sim_B_144","B","2026-04-17 17:54:53 EDT","switch","intermediate","standard","standard","standard",0,,,1,"2026-04-17 17:56:40 EDT",107.3,5
+"sim_A_138","A","2026-04-17 13:53:39 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 13:55:17 EDT",98.9,3
+"sim_A_012","A","2026-04-17 14:48:06 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 14:49:51 EDT",105.7,4
+"sim_B_019","B","2026-04-17 16:12:49 EDT","personal","intermediate","standard","standard","standard",0,,,1,"2026-04-17 16:14:27 EDT",98.3,4
+"sim_A_116","A","2026-04-17 17:54:49 EDT","academic","basic","standard","advanced","advanced",1,0,1,1,"2026-04-17 17:56:27 EDT",98,3
+"sim_A_186","A","2026-04-17 14:25:54 EDT","job","intermediate","advanced","standard","standard",1,0,1,1,"2026-04-17 14:27:44 EDT",110.1,3
+"sim_B_155","B","2026-04-17 11:00:05 EDT","switch","none","beginner","beginner","beginner",0,,,1,"2026-04-17 11:02:03 EDT",118.5,2
+"sim_A_111","A","2026-04-17 12:25:31 EDT","academic","basic","beginner","","",1,,,0,"",,
+"sim_A_141","A","2026-04-17 14:04:11 EDT","academic","basic","standard","","",1,,,0,"",,
+"sim_A_151","A","2026-04-17 09:42:47 EDT","academic","basic","standard","advanced","advanced",1,0,1,1,"2026-04-17 09:43:42 EDT",55.2,4
+"sim_A_046","A","2026-04-17 11:55:35 EDT","academic","intermediate","beginner","","",1,,,0,"",,
+"sim_B_196","B","2026-04-17 16:11:20 EDT","job","advanced","advanced","","",0,,,0,"",,
+"sim_B_059","B","2026-04-17 09:45:09 EDT","switch","advanced","advanced","advanced","advanced",0,,,1,"2026-04-17 09:48:19 EDT",190.3,5
+"sim_B_030","B","2026-04-17 13:56:12 EDT","personal","basic","standard","standard","standard",0,,,1,"2026-04-17 13:58:57 EDT",165.5,4
+"sim_A_071","A","2026-04-17 11:55:23 EDT","switch","none","beginner","advanced","advanced",1,0,1,1,"2026-04-17 11:56:28 EDT",65.6,4
+"sim_A_121","A","2026-04-17 11:43:44 EDT","job","basic","beginner","advanced","advanced",1,0,1,1,"2026-04-17 11:44:50 EDT",66.8,3
+"sim_A_174","A","2026-04-17 18:03:50 EDT","academic","basic","beginner","standard","standard",1,0,1,1,"2026-04-17 18:04:49 EDT",59.9,3
+"sim_A_050","A","2026-04-17 12:44:53 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 12:45:39 EDT",46.2,4
+"sim_A_042","A","2026-04-17 17:51:33 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 17:52:38 EDT",65.7,5
+"sim_A_163","A","2026-04-17 18:12:12 EDT","academic","basic","beginner","","",1,,,0,"",,
+"sim_A_047","A","2026-04-17 09:51:27 EDT","academic","intermediate","standard","standard","standard",1,1,0,1,"2026-04-17 09:53:18 EDT",111.5,3
+"sim_B_034","B","2026-04-17 17:21:10 EDT","switch","none","beginner","","",0,,,0,"",,
+"sim_A_170","A","2026-04-17 16:38:14 EDT","job","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 16:39:07 EDT",53.8,4
+"sim_A_112","A","2026-04-17 16:14:10 EDT","academic","basic","standard","advanced","advanced",1,0,1,1,"2026-04-17 16:15:37 EDT",87.9,4
+"sim_A_082","A","2026-04-17 18:42:29 EDT","academic","basic","advanced","","",1,,,0,"",,
+"sim_A_036","A","2026-04-17 09:38:02 EDT","academic","intermediate","advanced","","",1,,,0,"",,
+"sim_A_053","A","2026-04-17 14:15:53 EDT","academic","basic","beginner","advanced","advanced",1,0,1,1,"2026-04-17 14:17:33 EDT",100.1,3
+"sim_A_001","A","2026-04-17 14:25:57 EDT","switch","advanced","standard","standard","standard",1,1,0,1,"2026-04-17 14:26:59 EDT",62.6,5
+"sim_B_168","B","2026-04-17 16:52:28 EDT","job","intermediate","standard","standard","standard",0,,,1,"2026-04-17 16:54:19 EDT",111.3,4
+"sim_B_194","B","2026-04-17 15:37:46 EDT","academic","basic","standard","advanced","advanced",0,,,1,"2026-04-17 15:39:12 EDT",86.7,2
+"sim_B_188","B","2026-04-17 18:34:39 EDT","academic","basic","beginner","beginner","beginner",0,,,1,"2026-04-17 18:37:15 EDT",156,4
+"sim_B_140","B","2026-04-17 17:51:48 EDT","academic","basic","beginner","","",0,,,0,"",,
+"sim_A_168","A","2026-04-17 09:59:36 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 10:00:17 EDT",41.5,3
+"sim_B_166","B","2026-04-17 12:10:28 EDT","job","intermediate","advanced","","",0,,,0,"",,
+"sim_A_069","A","2026-04-17 14:33:24 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 14:34:22 EDT",58,4
+"sim_A_118","A","2026-04-17 12:09:43 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 12:11:03 EDT",80.4,3
+"sim_A_167","A","2026-04-17 11:29:08 EDT","switch","basic","standard","standard","standard",1,1,0,1,"2026-04-17 11:30:39 EDT",91.7,3
+"sim_A_022","A","2026-04-17 09:45:35 EDT","job","basic","standard","","",1,,,0,"",,
+"sim_B_182","B","2026-04-17 12:25:55 EDT","switch","none","standard","","",0,,,0,"",,
+"sim_B_193","B","2026-04-17 10:32:45 EDT","job","basic","beginner","","",0,,,0,"",,
+"sim_A_156","A","2026-04-17 14:46:18 EDT","academic","intermediate","advanced","standard","standard",1,0,1,1,"2026-04-17 14:46:54 EDT",36.9,3
+"sim_A_147","A","2026-04-17 09:46:20 EDT","job","basic","standard","standard","standard",1,1,0,1,"2026-04-17 09:46:38 EDT",18,3
+"sim_A_097","A","2026-04-17 10:06:20 EDT","job","basic","beginner","advanced","advanced",1,0,1,1,"2026-04-17 10:07:59 EDT",99.3,2
+"sim_A_199","A","2026-04-17 13:33:18 EDT","personal","basic","standard","","",1,,,0,"",,
+"sim_B_148","B","2026-04-17 18:46:04 EDT","switch","intermediate","standard","advanced","advanced",0,,,1,"2026-04-17 18:48:17 EDT",133.4,3
+"sim_B_098","B","2026-04-17 09:26:32 EDT","academic","basic","beginner","beginner","beginner",0,,,1,"2026-04-17 09:28:28 EDT",116.7,4
+"sim_A_089","A","2026-04-17 17:48:25 EDT","personal","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 17:50:23 EDT",118,4
+"sim_A_073","A","2026-04-17 18:04:06 EDT","switch","intermediate","standard","","",1,,,0,"",,
+"sim_A_180","A","2026-04-17 11:08:14 EDT","academic","basic","advanced","","",1,,,0,"",,
+"sim_B_104","B","2026-04-17 14:27:24 EDT","switch","intermediate","standard","beginner","beginner",0,,,1,"2026-04-17 14:29:49 EDT",145.7,3
+"sim_A_122","A","2026-04-17 12:56:57 EDT","academic","basic","standard","","",1,,,0,"",,
+"sim_B_073","B","2026-04-17 13:21:50 EDT","academic","intermediate","standard","advanced","advanced",0,,,1,"2026-04-17 13:24:06 EDT",136.5,3
+"sim_B_083","B","2026-04-17 15:31:10 EDT","academic","basic","standard","","",0,,,0,"",,
+"sim_A_114","A","2026-04-17 12:42:03 EDT","personal","none","beginner","","",1,,,0,"",,
+"sim_B_177","B","2026-04-17 17:51:35 EDT","job","intermediate","standard","advanced","advanced",0,,,1,"2026-04-17 17:54:34 EDT",179.2,3
+"sim_B_160","B","2026-04-17 12:28:28 EDT","academic","none","beginner","","",0,,,0,"",,
+"sim_B_198","B","2026-04-17 12:36:20 EDT","personal","none","standard","standard","standard",0,,,1,"2026-04-17 12:38:45 EDT",145.5,5
+"sim_A_126","A","2026-04-17 09:25:23 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 09:25:55 EDT",32.7,4
+"sim_A_003","A","2026-04-17 15:56:25 EDT","academic","basic","beginner","standard","standard",1,0,1,1,"2026-04-17 15:57:38 EDT",73.2,2
+"sim_B_039","B","2026-04-17 09:04:59 EDT","job","basic","beginner","beginner","beginner",0,,,1,"2026-04-17 09:05:48 EDT",49.4,4
+"sim_A_037","A","2026-04-17 15:13:17 EDT","academic","basic","beginner","standard","standard",1,0,1,1,"2026-04-17 15:14:38 EDT",81.9,3
+"sim_A_074","A","2026-04-17 14:49:55 EDT","personal","intermediate","advanced","advanced","advanced",1,1,0,1,"2026-04-17 14:51:30 EDT",95.4,2
+"sim_B_015","B","2026-04-17 18:11:35 EDT","job","basic","standard","beginner","beginner",0,,,1,"2026-04-17 18:13:43 EDT",128.6,3
+"sim_B_011","B","2026-04-17 15:31:03 EDT","job","intermediate","standard","beginner","beginner",0,,,1,"2026-04-17 15:31:32 EDT",29.9,4
+"sim_B_063","B","2026-04-17 16:28:56 EDT","job","none","beginner","","",0,,,0,"",,
+"sim_A_179","A","2026-04-17 11:33:37 EDT","academic","basic","standard","","",1,,,0,"",,
+"sim_B_175","B","2026-04-17 12:11:42 EDT","switch","basic","standard","standard","standard",0,,,1,"2026-04-17 12:14:02 EDT",140.7,4
+"sim_B_131","B","2026-04-17 17:31:03 EDT","personal","basic","standard","standard","standard",0,,,1,"2026-04-17 17:32:03 EDT",60.6,3
+"sim_A_061","A","2026-04-17 17:17:27 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 17:19:06 EDT",99.2,4
+"sim_B_045","B","2026-04-17 10:27:40 EDT","job","none","beginner","standard","standard",0,,,1,"2026-04-17 10:29:49 EDT",129.5,3
+"sim_A_149","A","2026-04-17 10:34:41 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 10:35:45 EDT",64.6,4
+"sim_B_195","B","2026-04-17 10:38:29 EDT","academic","intermediate","standard","standard","standard",0,,,1,"2026-04-17 10:39:50 EDT",81.7,5
+"sim_A_088","A","2026-04-17 14:39:25 EDT","switch","basic","standard","standard","standard",1,1,0,1,"2026-04-17 14:41:09 EDT",104.6,5
+"sim_B_041","B","2026-04-17 13:17:44 EDT","job","basic","beginner","","",0,,,0,"",,
+"sim_A_176","A","2026-04-17 14:32:51 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 14:34:26 EDT",95.3,4
+"sim_A_148","A","2026-04-17 09:28:18 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 09:29:19 EDT",61.7,3
+"sim_B_149","B","2026-04-17 13:20:03 EDT","academic","basic","standard","","",0,,,0,"",,
+"sim_B_099","B","2026-04-17 10:22:18 EDT","switch","advanced","standard","standard","standard",0,,,1,"2026-04-17 10:24:08 EDT",110.5,3
+"sim_A_187","A","2026-04-17 13:25:52 EDT","job","intermediate","standard","standard","standard",1,1,0,1,"2026-04-17 13:27:06 EDT",74.5,4
+"sim_A_190","A","2026-04-17 18:49:00 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 18:50:44 EDT",104.2,4
+"sim_B_008","B","2026-04-17 18:22:10 EDT","academic","basic","standard","standard","standard",0,,,1,"2026-04-17 18:24:37 EDT",147.1,5
+"sim_B_055","B","2026-04-17 13:48:26 EDT","academic","intermediate","advanced","","",0,,,0,"",,
+"sim_A_011","A","2026-04-17 09:48:56 EDT","job","basic","beginner","advanced","advanced",1,0,1,1,"2026-04-17 09:50:04 EDT",68.8,2
+"sim_B_185","B","2026-04-17 12:08:25 EDT","job","intermediate","standard","standard","standard",0,,,1,"2026-04-17 12:10:16 EDT",111,4
+"sim_A_129","A","2026-04-17 16:31:54 EDT","academic","basic","standard","advanced","advanced",1,0,1,1,"2026-04-17 16:33:01 EDT",67.5,2
+"sim_B_028","B","2026-04-17 12:12:46 EDT","academic","none","beginner","beginner","beginner",0,,,1,"2026-04-17 12:14:49 EDT",123.8,4
+"sim_A_010","A","2026-04-17 15:22:10 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 15:23:39 EDT",89.1,4
+"sim_A_059","A","2026-04-17 10:38:59 EDT","academic","intermediate","standard","advanced","advanced",1,0,1,1,"2026-04-17 10:40:48 EDT",109.6,4
+"sim_A_055","A","2026-04-17 12:40:59 EDT","academic","none","beginner","beginner","beginner",1,1,0,1,"2026-04-17 12:42:14 EDT",75.3,3
+"sim_A_051","A","2026-04-17 15:39:33 EDT","job","intermediate","standard","beginner","beginner",1,0,1,1,"2026-04-17 15:41:22 EDT",109.3,4
+"sim_A_092","A","2026-04-17 12:18:18 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 12:19:27 EDT",69.3,4
+"sim_B_199","B","2026-04-17 10:26:53 EDT","job","intermediate","standard","standard","standard",0,,,1,"2026-04-17 10:29:48 EDT",175.3,3
+"sim_A_159","A","2026-04-17 15:08:43 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 15:10:04 EDT",81.9,4
+"sim_A_127","A","2026-04-17 10:42:52 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 10:44:09 EDT",77.9,4
+"sim_A_198","A","2026-04-17 11:19:49 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 11:22:06 EDT",137.3,4
+"sim_A_197","A","2026-04-17 17:18:07 EDT","academic","none","beginner","","",1,,,0,"",,
+"sim_B_189","B","2026-04-17 17:46:56 EDT","personal","basic","beginner","beginner","beginner",0,,,1,"2026-04-17 17:49:26 EDT",150.1,4
+"sim_B_075","B","2026-04-17 14:28:26 EDT","academic","intermediate","advanced","advanced","advanced",0,,,1,"2026-04-17 14:30:54 EDT",148.4,4
+"sim_A_158","A","2026-04-17 13:13:46 EDT","job","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 13:15:30 EDT",104.2,5
+"sim_A_108","A","2026-04-17 13:43:33 EDT","academic","none","standard","advanced","advanced",1,0,1,1,"2026-04-17 13:45:06 EDT",93.4,4
+"sim_A_041","A","2026-04-17 10:55:18 EDT","switch","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 10:57:14 EDT",116.3,4
+"sim_B_025","B","2026-04-17 18:46:14 EDT","switch","basic","beginner","advanced","advanced",0,,,1,"2026-04-17 18:48:35 EDT",141.3,3
+"sim_B_115","B","2026-04-17 17:46:39 EDT","job","intermediate","standard","","",0,,,0,"",,
+"sim_B_003","B","2026-04-17 14:06:07 EDT","switch","intermediate","standard","","",0,,,0,"",,
+"sim_A_143","A","2026-04-17 16:19:36 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 16:21:52 EDT",136.2,3
+"sim_B_093","B","2026-04-17 16:08:13 EDT","job","none","beginner","beginner","beginner",0,,,1,"2026-04-17 16:10:49 EDT",156.5,3
+"sim_A_079","A","2026-04-17 16:03:28 EDT","academic","intermediate","standard","standard","standard",1,1,0,1,"2026-04-17 16:04:32 EDT",64,3
+"sim_A_075","A","2026-04-17 09:05:06 EDT","academic","basic","standard","","",1,,,0,"",,
+"sim_B_065","B","2026-04-17 10:29:27 EDT","switch","intermediate","standard","standard","standard",0,,,1,"2026-04-17 10:31:39 EDT",132,4
+"sim_B_176","B","2026-04-17 18:31:04 EDT","job","advanced","advanced","advanced","advanced",0,,,1,"2026-04-17 18:32:00 EDT",56.2,3
+"sim_B_167","B","2026-04-17 16:45:45 EDT","academic","basic","beginner","","",0,,,0,"",,
+"sim_B_170","B","2026-04-17 14:48:32 EDT","job","intermediate","advanced","","",0,,,0,"",,
+"sim_B_002","B","2026-04-17 10:35:08 EDT","academic","advanced","advanced","advanced","advanced",0,,,1,"2026-04-17 10:37:37 EDT",149.2,5
+"sim_B_114","B","2026-04-17 11:37:12 EDT","job","basic","standard","","",0,,,0,"",,
+"sim_B_120","B","2026-04-17 11:09:33 EDT","personal","advanced","advanced","","",0,,,0,"",,
+"sim_A_137","A","2026-04-17 10:54:04 EDT","personal","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 10:55:31 EDT",87.8,5
+"sim_A_058","A","2026-04-17 18:54:07 EDT","academic","basic","beginner","advanced","advanced",1,0,1,1,"2026-04-17 18:55:25 EDT",78.7,2
+"sim_A_109","A","2026-04-17 14:35:33 EDT","switch","basic","beginner","","",1,,,0,"",,
+"sim_A_161","A","2026-04-17 12:08:56 EDT","switch","intermediate","advanced","advanced","advanced",1,1,0,1,"2026-04-17 12:10:42 EDT",106.9,5
+"sim_B_024","B","2026-04-17 12:10:31 EDT","job","basic","standard","","",0,,,0,"",,
+"sim_A_090","A","2026-04-17 16:06:09 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 16:07:36 EDT",87.2,4
+"sim_B_128","B","2026-04-17 14:26:06 EDT","personal","intermediate","standard","","",0,,,0,"",,
+"sim_B_014","B","2026-04-17 18:54:06 EDT","personal","basic","beginner","","",0,,,0,"",,
+"sim_B_111","B","2026-04-17 12:51:54 EDT","personal","intermediate","standard","standard","standard",0,,,1,"2026-04-17 12:55:22 EDT",208.6,5
+"sim_B_070","B","2026-04-17 15:02:14 EDT","job","basic","beginner","","",0,,,0,"",,
+"sim_B_154","B","2026-04-17 11:54:47 EDT","switch","basic","standard","advanced","advanced",0,,,1,"2026-04-17 11:56:27 EDT",100.9,4
+"sim_A_183","A","2026-04-17 16:21:21 EDT","job","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 16:22:51 EDT",90.4,3
+"sim_B_006","B","2026-04-17 17:16:37 EDT","switch","basic","standard","","",0,,,0,"",,
+"sim_B_141","B","2026-04-17 14:55:21 EDT","switch","advanced","advanced","standard","standard",0,,,1,"2026-04-17 14:57:36 EDT",135.1,2
+"sim_A_017","A","2026-04-17 14:45:10 EDT","academic","advanced","beginner","beginner","beginner",1,1,0,1,"2026-04-17 14:46:24 EDT",74.4,4
+"sim_B_089","B","2026-04-17 14:05:36 EDT","job","basic","beginner","","",0,,,0,"",,
+"sim_B_069","B","2026-04-17 11:33:37 EDT","job","none","beginner","beginner","beginner",0,,,1,"2026-04-17 11:36:53 EDT",196.6,4
+"sim_B_126","B","2026-04-17 17:53:42 EDT","academic","none","beginner","","",0,,,0,"",,
+"sim_B_101","B","2026-04-17 13:55:23 EDT","job","basic","standard","","",0,,,0,"",,
+"sim_B_029","B","2026-04-17 16:21:48 EDT","personal","basic","standard","standard","standard",0,,,1,"2026-04-17 16:23:28 EDT",100.5,4
+"sim_A_182","A","2026-04-17 14:02:14 EDT","job","basic","standard","standard","standard",1,1,0,1,"2026-04-17 14:02:45 EDT",31,4
+"sim_B_137","B","2026-04-17 12:20:28 EDT","academic","none","beginner","","",0,,,0,"",,
+"sim_A_080","A","2026-04-17 16:21:02 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 16:22:05 EDT",63,4
+"sim_B_157","B","2026-04-17 18:12:59 EDT","switch","basic","standard","","",0,,,0,"",,
+"sim_B_151","B","2026-04-17 16:57:19 EDT","academic","basic","beginner","beginner","beginner",0,,,1,"2026-04-17 16:58:33 EDT",74.9,3
+"sim_A_019","A","2026-04-17 12:45:05 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 12:46:30 EDT",85.2,4
+"sim_A_027","A","2026-04-17 18:23:34 EDT","job","basic","beginner","","",1,,,0,"",,
+"sim_A_200","A","2026-04-17 16:44:06 EDT","switch","basic","advanced","","",1,,,0,"",,
+"sim_A_120","A","2026-04-17 12:35:12 EDT","job","basic","beginner","standard","standard",1,0,1,1,"2026-04-17 12:37:19 EDT",127.2,4
+"sim_B_153","B","2026-04-17 10:14:35 EDT","academic","intermediate","standard","advanced","advanced",0,,,1,"2026-04-17 10:17:18 EDT",163.8,4
+"sim_B_071","B","2026-04-17 11:55:05 EDT","job","basic","standard","standard","standard",0,,,1,"2026-04-17 11:56:50 EDT",105.2,4
+"sim_B_130","B","2026-04-17 09:26:47 EDT","job","none","beginner","","",0,,,0,"",,
+"sim_B_142","B","2026-04-17 11:45:04 EDT","job","intermediate","standard","standard","standard",0,,,1,"2026-04-17 11:47:37 EDT",153.9,4
+"sim_B_026","B","2026-04-17 12:24:13 EDT","job","none","beginner","beginner","beginner",0,,,1,"2026-04-17 12:27:29 EDT",196.7,4
+"sim_B_133","B","2026-04-17 12:17:12 EDT","personal","intermediate","standard","standard","standard",0,,,1,"2026-04-17 12:19:25 EDT",133.8,5
+"sim_B_062","B","2026-04-17 10:21:13 EDT","job","intermediate","standard","standard","standard",0,,,1,"2026-04-17 10:22:11 EDT",58.7,4
+"sim_A_175","A","2026-04-17 12:06:39 EDT","personal","intermediate","standard","standard","standard",1,1,0,1,"2026-04-17 12:07:50 EDT",71.3,3
+"sim_A_191","A","2026-04-17 14:37:21 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 14:38:39 EDT",78.5,4
+"sim_B_027","B","2026-04-17 14:10:08 EDT","job","intermediate","standard","standard","standard",0,,,1,"2026-04-17 14:11:30 EDT",82.8,4
+"sim_B_156","B","2026-04-17 11:30:41 EDT","job","basic","standard","","",0,,,0,"",,
+"sim_A_065","A","2026-04-17 17:28:37 EDT","switch","basic","standard","","",1,,,0,"",,
+"sim_B_079","B","2026-04-17 14:13:41 EDT","personal","basic","beginner","","",0,,,0,"",,
+"sim_A_165","A","2026-04-17 18:12:21 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 18:12:48 EDT",27.8,4
+"sim_A_115","A","2026-04-17 11:49:29 EDT","academic","basic","advanced","advanced","advanced",1,1,0,1,"2026-04-17 11:50:39 EDT",70.8,5
+"sim_B_107","B","2026-04-17 16:13:17 EDT","switch","basic","standard","standard","standard",0,,,1,"2026-04-17 16:16:14 EDT",177,5
+"sim_A_006","A","2026-04-17 13:44:39 EDT","job","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 13:46:13 EDT",94.2,3
+"sim_B_122","B","2026-04-17 15:32:35 EDT","switch","none","beginner","","",0,,,0,"",,
+"sim_A_188","A","2026-04-17 16:56:38 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 16:58:03 EDT",85.3,3
+"sim_B_020","B","2026-04-17 13:29:58 EDT","personal","none","beginner","beginner","beginner",0,,,1,"2026-04-17 13:31:59 EDT",121.4,4
+"sim_A_154","A","2026-04-17 13:13:43 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 13:14:15 EDT",32.7,5
+"sim_A_119","A","2026-04-17 18:01:46 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 18:03:08 EDT",82.3,3
+"sim_B_097","B","2026-04-17 09:37:46 EDT","academic","none","beginner","","",0,,,0,"",,
+"sim_A_034","A","2026-04-17 14:18:58 EDT","personal","basic","standard","advanced","advanced",1,0,1,1,"2026-04-17 14:19:52 EDT",54,3
+"sim_B_046","B","2026-04-17 14:32:44 EDT","switch","intermediate","standard","standard","standard",0,,,1,"2026-04-17 14:34:05 EDT",81.3,5
+"sim_A_130","A","2026-04-17 11:12:54 EDT","academic","basic","beginner","","",1,,,0,"",,
+"sim_B_178","B","2026-04-17 14:39:20 EDT","switch","none","beginner","beginner","beginner",0,,,1,"2026-04-17 14:41:26 EDT",126.1,4
+"sim_B_094","B","2026-04-17 10:55:53 EDT","switch","basic","beginner","standard","standard",0,,,1,"2026-04-17 10:57:48 EDT",115.8,4
+"sim_B_138","B","2026-04-17 10:32:03 EDT","academic","basic","standard","","",0,,,0,"",,
+"sim_A_173","A","2026-04-17 10:53:20 EDT","academic","basic","beginner","","",1,,,0,"",,
+"sim_B_017","B","2026-04-17 09:14:30 EDT","switch","intermediate","standard","standard","standard",0,,,1,"2026-04-17 09:16:51 EDT",141.3,5
+"sim_B_187","B","2026-04-17 10:13:29 EDT","job","none","beginner","beginner","beginner",0,,,1,"2026-04-17 10:15:43 EDT",134.1,4
+"sim_A_146","A","2026-04-17 13:42:14 EDT","job","advanced","advanced","standard","standard",1,0,1,1,"2026-04-17 13:43:36 EDT",82.6,4
+"sim_A_133","A","2026-04-17 14:05:39 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 14:06:52 EDT",73.5,4
+"sim_A_024","A","2026-04-17 14:48:24 EDT","switch","advanced","advanced","beginner","beginner",1,0,1,1,"2026-04-17 14:49:24 EDT",60.9,2
+"sim_B_136","B","2026-04-17 12:12:48 EDT","job","intermediate","standard","beginner","beginner",0,,,1,"2026-04-17 12:15:34 EDT",166.5,3
+"sim_A_184","A","2026-04-17 12:11:40 EDT","personal","basic","standard","advanced","advanced",1,0,1,1,"2026-04-17 12:13:16 EDT",96.6,3
+"sim_B_162","B","2026-04-17 11:49:46 EDT","academic","basic","beginner","beginner","beginner",0,,,1,"2026-04-17 11:50:34 EDT",48.8,5
+"sim_A_083","A","2026-04-17 12:31:42 EDT","academic","intermediate","standard","standard","standard",1,1,0,1,"2026-04-17 12:32:47 EDT",65.6,3
+"sim_B_057","B","2026-04-17 14:44:21 EDT","switch","advanced","advanced","","",0,,,0,"",,
+"sim_A_032","A","2026-04-17 12:57:46 EDT","personal","basic","beginner","","",1,,,0,"",,
+"sim_B_121","B","2026-04-17 18:29:53 EDT","job","advanced","advanced","","",0,,,0,"",,
+"sim_A_029","A","2026-04-17 15:41:53 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 15:43:09 EDT",76.1,4
+"sim_A_117","A","2026-04-17 17:27:33 EDT","personal","advanced","advanced","advanced","advanced",1,1,0,1,"2026-04-17 17:29:13 EDT",100.2,5
+"sim_A_142","A","2026-04-17 09:45:19 EDT","job","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 09:46:39 EDT",80.1,4
+"sim_A_181","A","2026-04-17 18:44:14 EDT","academic","intermediate","advanced","advanced","advanced",1,1,0,1,"2026-04-17 18:45:24 EDT",70.4,3
+"sim_B_112","B","2026-04-17 13:36:20 EDT","job","none","beginner","standard","standard",0,,,1,"2026-04-17 13:38:29 EDT",129.8,3
+"sim_A_077","A","2026-04-17 12:11:48 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 12:13:37 EDT",109.8,5
+"sim_B_192","B","2026-04-17 14:28:24 EDT","job","advanced","advanced","standard","standard",0,,,1,"2026-04-17 14:30:20 EDT",116.7,3
+"sim_B_109","B","2026-04-17 10:13:49 EDT","switch","advanced","advanced","advanced","advanced",0,,,1,"2026-04-17 10:16:03 EDT",134,4
+"sim_A_081","A","2026-04-17 14:31:54 EDT","job","intermediate","standard","standard","standard",1,1,0,1,"2026-04-17 14:34:02 EDT",128.2,3
+"sim_B_072","B","2026-04-17 11:40:43 EDT","academic","none","beginner","","",0,,,0,"",,
+"sim_B_179","B","2026-04-17 14:53:26 EDT","switch","basic","beginner","beginner","beginner",0,,,1,"2026-04-17 14:54:50 EDT",84,5
+"sim_B_088","B","2026-04-17 14:32:46 EDT","personal","none","beginner","","",0,,,0,"",,
+"sim_B_058","B","2026-04-17 14:38:56 EDT","personal","intermediate","standard","","",0,,,0,"",,
+"sim_A_033","A","2026-04-17 09:27:20 EDT","academic","basic","standard","","",1,,,0,"",,
+"sim_A_002","A","2026-04-17 10:09:29 EDT","personal","basic","standard","standard","standard",1,1,0,1,"2026-04-17 10:11:20 EDT",111.3,5
+"sim_A_152","A","2026-04-17 14:18:07 EDT","academic","none","beginner","beginner","beginner",1,1,0,1,"2026-04-17 14:19:22 EDT",75.6,4
+"sim_A_062","A","2026-04-17 09:22:44 EDT","personal","basic","standard","standard","standard",1,1,0,1,"2026-04-17 09:24:02 EDT",78.1,3
+"sim_A_185","A","2026-04-17 14:04:41 EDT","switch","advanced","advanced","advanced","advanced",1,1,0,1,"2026-04-17 14:06:10 EDT",89.2,4
+"sim_B_184","B","2026-04-17 09:26:31 EDT","job","basic","standard","advanced","advanced",0,,,1,"2026-04-17 09:28:04 EDT",93.1,3
+"sim_B_022","B","2026-04-17 15:49:21 EDT","job","none","beginner","","",0,,,0,"",,
+"sim_A_093","A","2026-04-17 18:56:53 EDT","academic","basic","beginner","","",1,,,0,"",,
+"sim_B_127","B","2026-04-17 14:52:52 EDT","job","advanced","standard","advanced","advanced",0,,,1,"2026-04-17 14:55:23 EDT",151.6,4
+"sim_B_103","B","2026-04-17 16:31:24 EDT","personal","intermediate","advanced","beginner","beginner",0,,,1,"2026-04-17 16:33:20 EDT",116.7,2
+"sim_B_004","B","2026-04-17 12:07:35 EDT","academic","basic","beginner","beginner","beginner",0,,,1,"2026-04-17 12:09:44 EDT",129.3,4
+"sim_A_194","A","2026-04-17 15:31:44 EDT","academic","none","beginner","beginner","beginner",1,1,0,1,"2026-04-17 15:33:18 EDT",94.5,5
+"sim_A_076","A","2026-04-17 18:06:46 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 18:08:34 EDT",108,4
+"sim_A_016","A","2026-04-17 16:00:12 EDT","academic","basic","beginner","","",1,,,0,"",,
+"sim_A_087","A","2026-04-17 16:04:42 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 16:05:59 EDT",77.7,4
+"sim_A_052","A","2026-04-17 11:51:09 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 11:52:39 EDT",90.5,4
+"sim_B_180","B","2026-04-17 10:51:10 EDT","switch","intermediate","standard","standard","standard",0,,,1,"2026-04-17 10:53:20 EDT",130.8,4
+"sim_B_061","B","2026-04-17 13:26:22 EDT","personal","none","beginner","advanced","advanced",0,,,1,"2026-04-17 13:27:33 EDT",71.3,3
+"sim_A_078","A","2026-04-17 14:19:02 EDT","academic","intermediate","beginner","","",1,,,0,"",,
+"sim_A_178","A","2026-04-17 14:37:34 EDT","academic","advanced","advanced","advanced","advanced",1,1,0,1,"2026-04-17 14:39:20 EDT",106,3
+"sim_A_030","A","2026-04-17 15:51:31 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 15:53:10 EDT",99.7,4
+"sim_A_098","A","2026-04-17 18:12:38 EDT","academic","basic","standard","","",1,,,0,"",,
+"sim_B_049","B","2026-04-17 15:28:01 EDT","academic","basic","beginner","","",0,,,0,"",,
+"sim_B_060","B","2026-04-17 12:15:35 EDT","job","advanced","advanced","","",0,,,0,"",,
+"sim_B_018","B","2026-04-17 13:43:57 EDT","job","advanced","advanced","advanced","advanced",0,,,1,"2026-04-17 13:46:15 EDT",138.7,4
+"sim_B_037","B","2026-04-17 13:59:55 EDT","academic","advanced","standard","","",0,,,0,"",,
+"sim_B_067","B","2026-04-17 10:37:38 EDT","academic","advanced","standard","","",0,,,0,"",,
+"sim_B_090","B","2026-04-17 18:10:07 EDT","academic","basic","standard","","",0,,,0,"",,
+"sim_B_044","B","2026-04-17 17:15:06 EDT","job","basic","beginner","","",0,,,0,"",,
+"sim_B_036","B","2026-04-17 11:38:21 EDT","job","advanced","advanced","advanced","advanced",0,,,1,"2026-04-17 11:39:35 EDT",74.4,5
+"sim_A_192","A","2026-04-17 10:31:09 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 10:32:49 EDT",100.1,4
+"sim_B_043","B","2026-04-17 16:21:01 EDT","academic","advanced","advanced","advanced","advanced",0,,,1,"2026-04-17 16:23:03 EDT",122.8,4
+"sim_B_158","B","2026-04-17 13:47:39 EDT","job","basic","beginner","","",0,,,0,"",,
+"sim_B_118","B","2026-04-17 15:03:42 EDT","academic","basic","standard","standard","standard",0,,,1,"2026-04-17 15:05:26 EDT",104.1,4
+"sim_B_171","B","2026-04-17 09:57:21 EDT","personal","basic","standard","beginner","beginner",0,,,1,"2026-04-17 10:00:35 EDT",194.4,4
+"sim_B_134","B","2026-04-17 17:54:16 EDT","job","basic","standard","advanced","advanced",0,,,1,"2026-04-17 17:56:49 EDT",153.3,4
+"sim_A_072","A","2026-04-17 11:52:00 EDT","academic","basic","advanced","","",1,,,0,"",,
+"sim_A_009","A","2026-04-17 18:55:20 EDT","personal","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 18:56:18 EDT",58.5,4
+"sim_B_010","B","2026-04-17 11:51:32 EDT","personal","none","beginner","","",0,,,0,"",,
+"sim_A_020","A","2026-04-17 18:35:53 EDT","job","none","beginner","advanced","advanced",1,0,1,1,"2026-04-17 18:37:45 EDT",112.5,2
+"sim_A_085","A","2026-04-17 10:44:45 EDT","academic","basic","standard","","",1,,,0,"",,
+"sim_A_023","A","2026-04-17 14:02:33 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 14:03:39 EDT",66.9,4
+"sim_B_086","B","2026-04-17 11:13:36 EDT","job","basic","standard","","",0,,,0,"",,
+"sim_A_066","A","2026-04-17 09:49:59 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 09:51:06 EDT",67.8,4
+"sim_B_146","B","2026-04-17 17:26:37 EDT","job","none","beginner","beginner","beginner",0,,,1,"2026-04-17 17:28:37 EDT",120.6,5
+"sim_A_139","A","2026-04-17 15:57:17 EDT","academic","basic","standard","","",1,,,0,"",,
+"sim_B_066","B","2026-04-17 09:58:21 EDT","academic","none","beginner","beginner","beginner",0,,,1,"2026-04-17 10:00:50 EDT",149.9,3
+"sim_B_056","B","2026-04-17 12:09:12 EDT","academic","advanced","advanced","","",0,,,0,"",,
+"sim_B_050","B","2026-04-17 17:56:05 EDT","academic","basic","standard","","",0,,,0,"",,
+"sim_B_165","B","2026-04-17 18:14:23 EDT","job","basic","beginner","advanced","advanced",0,,,1,"2026-04-17 18:15:22 EDT",59,3
+"sim_B_152","B","2026-04-17 18:06:07 EDT","personal","intermediate","standard","standard","standard",0,,,1,"2026-04-17 18:07:59 EDT",112.4,4
+"sim_A_095","A","2026-04-17 14:27:59 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 14:29:45 EDT",106.1,3
+"sim_B_108","B","2026-04-17 13:50:17 EDT","job","basic","beginner","advanced","advanced",0,,,1,"2026-04-17 13:53:05 EDT",168.1,4
+"sim_B_007","B","2026-04-17 18:18:11 EDT","switch","basic","standard","","",0,,,0,"",,
+"sim_B_110","B","2026-04-17 09:06:33 EDT","job","intermediate","standard","","",0,,,0,"",,
+"sim_A_171","A","2026-04-17 12:22:32 EDT","academic","advanced","beginner","beginner","beginner",1,1,0,1,"2026-04-17 12:23:25 EDT",53.7,3
+"sim_B_033","B","2026-04-17 14:33:10 EDT","job","intermediate","standard","","",0,,,0,"",,
+"sim_A_005","A","2026-04-17 18:39:16 EDT","job","basic","standard","standard","standard",1,1,0,1,"2026-04-17 18:40:49 EDT",93,4
+"sim_A_140","A","2026-04-17 10:18:26 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 10:19:24 EDT",58,5
+"sim_B_173","B","2026-04-17 09:35:06 EDT","job","intermediate","standard","beginner","beginner",0,,,1,"2026-04-17 09:37:40 EDT",154.2,4
+"sim_A_164","A","2026-04-17 11:41:15 EDT","personal","basic","beginner","standard","standard",1,0,1,1,"2026-04-17 11:43:02 EDT",107.3,4
+"sim_B_077","B","2026-04-17 14:59:08 EDT","job","basic","beginner","beginner","beginner",0,,,1,"2026-04-17 15:00:47 EDT",99.7,4
+"sim_B_076","B","2026-04-17 18:41:01 EDT","job","advanced","advanced","","",0,,,0,"",,
+"sim_B_054","B","2026-04-17 10:35:17 EDT","academic","basic","standard","standard","standard",0,,,1,"2026-04-17 10:37:07 EDT",110.3,4
+"sim_A_107","A","2026-04-17 16:35:03 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 16:35:45 EDT",42.6,3
+"sim_A_049","A","2026-04-17 09:56:44 EDT","academic","none","beginner","advanced","advanced",1,0,1,1,"2026-04-17 09:58:31 EDT",107.8,4
+"sim_B_186","B","2026-04-17 14:36:01 EDT","personal","intermediate","advanced","","",0,,,0,"",,
+"sim_A_124","A","2026-04-17 17:04:24 EDT","academic","none","beginner","advanced","advanced",1,0,1,1,"2026-04-17 17:05:16 EDT",52.9,3
+"sim_A_040","A","2026-04-17 16:21:19 EDT","job","basic","standard","","",1,,,0,"",,
+"sim_B_040","B","2026-04-17 18:47:27 EDT","personal","intermediate","standard","advanced","advanced",0,,,1,"2026-04-17 18:50:25 EDT",178.5,3
+"sim_B_200","B","2026-04-17 15:03:04 EDT","job","advanced","advanced","advanced","advanced",0,,,1,"2026-04-17 15:05:27 EDT",143.8,5
+"sim_B_052","B","2026-04-17 18:20:54 EDT","job","advanced","standard","standard","standard",0,,,1,"2026-04-17 18:22:25 EDT",91.8,4
+"sim_B_082","B","2026-04-17 15:51:00 EDT","job","intermediate","standard","beginner","beginner",0,,,1,"2026-04-17 15:54:07 EDT",187,3
+"sim_A_134","A","2026-04-17 11:16:43 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 11:18:33 EDT",110.9,4
+"sim_B_091","B","2026-04-17 15:42:00 EDT","personal","basic","standard","standard","standard",0,,,1,"2026-04-17 15:44:27 EDT",147.1,4
+"sim_B_085","B","2026-04-17 16:43:49 EDT","job","advanced","advanced","","",0,,,0,"",,
+"sim_B_068","B","2026-04-17 16:43:19 EDT","personal","none","standard","","",0,,,0,"",,
+"sim_B_100","B","2026-04-17 11:17:21 EDT","job","basic","beginner","advanced","advanced",0,,,1,"2026-04-17 11:19:29 EDT",128.2,4
+"sim_B_074","B","2026-04-17 14:02:44 EDT","switch","none","beginner","","",0,,,0,"",,
+"sim_A_125","A","2026-04-17 17:13:26 EDT","switch","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 17:14:15 EDT",49.6,4
+"sim_A_155","A","2026-04-17 16:25:27 EDT","personal","intermediate","standard","standard","standard",1,1,0,1,"2026-04-17 16:26:56 EDT",89.8,4
+"sim_B_172","B","2026-04-17 15:17:50 EDT","switch","intermediate","standard","standard","standard",0,,,1,"2026-04-17 15:19:51 EDT",121.3,5
+"sim_A_044","A","2026-04-17 16:21:38 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 16:22:50 EDT",72,5
+"sim_A_099","A","2026-04-17 09:29:04 EDT","job","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 09:30:40 EDT",96.5,4
+"sim_B_096","B","2026-04-17 10:02:23 EDT","job","none","beginner","advanced","advanced",0,,,1,"2026-04-17 10:04:17 EDT",114.5,4
+"sim_B_013","B","2026-04-17 18:05:28 EDT","switch","none","beginner","beginner","beginner",0,,,1,"2026-04-17 18:08:38 EDT",190.5,4
+"sim_B_129","B","2026-04-17 17:50:11 EDT","academic","basic","advanced","beginner","beginner",0,,,1,"2026-04-17 17:52:12 EDT",121.7,3
+"sim_B_147","B","2026-04-17 13:01:02 EDT","job","none","beginner","beginner","beginner",0,,,1,"2026-04-17 13:03:25 EDT",143.7,5
+"sim_B_124","B","2026-04-17 17:43:13 EDT","personal","basic","beginner","beginner","beginner",0,,,1,"2026-04-17 17:46:04 EDT",171.7,4
+"sim_B_081","B","2026-04-17 16:17:27 EDT","job","basic","beginner","beginner","beginner",0,,,1,"2026-04-17 16:19:50 EDT",143.4,3
+"sim_B_048","B","2026-04-17 12:53:52 EDT","job","intermediate","standard","","",0,,,0,"",,
+"sim_B_150","B","2026-04-17 11:15:37 EDT","switch","basic","beginner","advanced","advanced",0,,,1,"2026-04-17 11:17:17 EDT",100.3,4
+"sim_B_183","B","2026-04-17 11:57:43 EDT","job","basic","beginner","standard","standard",0,,,1,"2026-04-17 11:59:57 EDT",134.4,1
+"sim_A_157","A","2026-04-17 16:48:26 EDT","academic","basic","advanced","advanced","advanced",1,1,0,1,"2026-04-17 16:49:54 EDT",88.5,4
+"sim_B_135","B","2026-04-17 15:41:20 EDT","job","intermediate","standard","","",0,,,0,"",,
+"sim_A_113","A","2026-04-17 18:44:27 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 18:45:35 EDT",68.7,4
+"sim_A_031","A","2026-04-17 13:43:11 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 13:44:07 EDT",56.3,4
+"sim_B_080","B","2026-04-17 14:18:45 EDT","job","basic","standard","","",0,,,0,"",,
+"sim_B_181","B","2026-04-17 11:55:53 EDT","switch","intermediate","standard","standard","standard",0,,,1,"2026-04-17 11:58:12 EDT",139,5
+"sim_B_084","B","2026-04-17 10:29:30 EDT","job","none","beginner","","",0,,,0,"",,
+"sim_B_092","B","2026-04-17 10:58:27 EDT","job","basic","beginner","","",0,,,0,"",,
+"sim_A_110","A","2026-04-17 13:48:05 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 13:49:50 EDT",105.1,4
+"sim_B_042","B","2026-04-17 12:01:02 EDT","job","basic","beginner","","",0,,,0,"",,
+"sim_A_123","A","2026-04-17 10:27:15 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 10:28:26 EDT",71.4,5
+"sim_B_064","B","2026-04-17 14:20:56 EDT","academic","basic","standard","standard","standard",0,,,1,"2026-04-17 14:23:18 EDT",142.9,3
+"sim_A_067","A","2026-04-17 18:46:00 EDT","academic","intermediate","standard","standard","standard",1,1,0,1,"2026-04-17 18:47:51 EDT",111.3,4
+"sim_B_105","B","2026-04-17 18:56:15 EDT","personal","advanced","advanced","advanced","advanced",0,,,1,"2026-04-17 18:58:53 EDT",158.4,5
+"sim_B_051","B","2026-04-17 18:25:58 EDT","personal","basic","standard","","",0,,,0,"",,
+"sim_B_125","B","2026-04-17 16:53:54 EDT","job","advanced","advanced","standard","standard",0,,,1,"2026-04-17 16:56:08 EDT",134.7,4
+"sim_B_143","B","2026-04-17 17:45:31 EDT","job","none","beginner","standard","standard",0,,,1,"2026-04-17 17:47:43 EDT",132.4,4
+"sim_B_163","B","2026-04-17 11:53:51 EDT","job","intermediate","standard","standard","standard",0,,,1,"2026-04-17 11:54:09 EDT",18,4
+"sim_B_053","B","2026-04-17 16:32:46 EDT","job","intermediate","standard","","",0,,,0,"",,
+"sim_A_153","A","2026-04-17 14:04:51 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 14:06:16 EDT",85.5,4
+"sim_A_132","A","2026-04-17 18:13:18 EDT","personal","basic","standard","standard","standard",1,1,0,1,"2026-04-17 18:15:02 EDT",104.9,4
+"sim_B_078","B","2026-04-17 09:50:43 EDT","job","advanced","advanced","advanced","advanced",0,,,1,"2026-04-17 09:53:23 EDT",160.4,4
+"sim_A_070","A","2026-04-17 13:28:52 EDT","job","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 13:30:08 EDT",76.2,5
+"sim_B_164","B","2026-04-17 17:12:33 EDT","switch","intermediate","standard","advanced","advanced",0,,,1,"2026-04-17 17:14:10 EDT",97.8,4
+"sim_A_084","A","2026-04-17 14:03:22 EDT","job","none","beginner","","",1,,,0,"",,
+"sim_A_021","A","2026-04-17 15:01:37 EDT","academic","basic","beginner","standard","standard",1,0,1,1,"2026-04-17 15:02:56 EDT",79.3,5
+"sim_A_013","A","2026-04-17 10:25:13 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 10:26:41 EDT",88.6,4
+"sim_A_048","A","2026-04-17 10:03:53 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 10:05:07 EDT",74.9,5
+"sim_A_104","A","2026-04-17 09:54:12 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 09:55:18 EDT",66,2
+"sim_A_162","A","2026-04-17 12:49:56 EDT","academic","intermediate","standard","beginner","beginner",1,0,1,1,"2026-04-17 12:51:05 EDT",69.6,4
+"sim_B_174","B","2026-04-17 12:48:30 EDT","academic","basic","beginner","advanced","advanced",0,,,1,"2026-04-17 12:51:22 EDT",172.7,4
+"sim_A_136","A","2026-04-17 09:42:00 EDT","job","basic","standard","standard","standard",1,1,0,1,"2026-04-17 09:43:21 EDT",81.3,5
+"sim_A_086","A","2026-04-17 10:04:44 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 10:05:47 EDT",63,4
+"sim_A_102","A","2026-04-17 16:23:30 EDT","job","basic","advanced","advanced","advanced",1,1,0,1,"2026-04-17 16:24:23 EDT",53.5,3
+"sim_A_045","A","2026-04-17 11:05:34 EDT","job","intermediate","standard","standard","standard",1,1,0,1,"2026-04-17 11:07:08 EDT",94,5
+"sim_B_169","B","2026-04-17 12:40:01 EDT","switch","intermediate","standard","","",0,,,0,"",,
+"sim_B_190","B","2026-04-17 16:40:38 EDT","switch","intermediate","standard","advanced","advanced",0,,,1,"2026-04-17 16:43:40 EDT",182.6,3
+"sim_B_031","B","2026-04-17 16:35:56 EDT","switch","intermediate","standard","standard","standard",0,,,1,"2026-04-17 16:38:24 EDT",148,4
+"sim_A_100","A","2026-04-17 09:43:28 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 09:44:43 EDT",75.3,4
+"sim_A_189","A","2026-04-17 18:25:55 EDT","switch","basic","standard","standard","standard",1,1,0,1,"2026-04-17 18:27:01 EDT",66.7,3
+"sim_B_116","B","2026-04-17 13:24:29 EDT","academic","basic","standard","standard","standard",0,,,1,"2026-04-17 13:26:50 EDT",141.3,5
+"sim_A_195","A","2026-04-17 12:20:43 EDT","job","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 12:22:23 EDT",100.4,5
+"sim_A_025","A","2026-04-17 09:17:35 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 09:18:37 EDT",62.8,5
+"sim_A_026","A","2026-04-17 10:40:40 EDT","job","basic","standard","standard","standard",1,1,0,1,"2026-04-17 10:42:56 EDT",136.7,4
+"sim_A_105","A","2026-04-17 09:21:55 EDT","job","basic","standard","standard","standard",1,1,0,1,"2026-04-17 09:24:06 EDT",131.4,4
+"sim_A_038","A","2026-04-17 18:12:04 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 18:13:09 EDT",65.6,4
+"sim_A_091","A","2026-04-17 11:52:13 EDT","switch","intermediate","standard","","",1,,,0,"",,
+"sim_A_060","A","2026-04-17 18:40:31 EDT","personal","basic","beginner","","",1,,,0,"",,
+"sim_B_035","B","2026-04-17 16:24:35 EDT","personal","basic","standard","advanced","advanced",0,,,1,"2026-04-17 16:26:03 EDT",88.2,3
+"sim_B_123","B","2026-04-17 15:56:43 EDT","personal","basic","beginner","","",0,,,0,"",,
+"sim_A_068","A","2026-04-17 14:48:15 EDT","academic","basic","beginner","advanced","advanced",1,0,1,1,"2026-04-17 14:49:29 EDT",74.7,4
+"sim_A_131","A","2026-04-17 10:58:24 EDT","switch","basic","standard","","",1,,,0,"",,
+"sim_A_008","A","2026-04-17 13:34:44 EDT","academic","basic","standard","","",1,,,0,"",,
+"sim_A_057","A","2026-04-17 13:02:09 EDT","academic","basic","standard","beginner","beginner",1,0,1,1,"2026-04-17 13:03:33 EDT",84,4
+"sim_A_014","A","2026-04-17 13:28:16 EDT","academic","basic","beginner","standard","standard",1,0,1,1,"2026-04-17 13:29:59 EDT",103.1,4
+"sim_A_144","A","2026-04-17 18:12:24 EDT","academic","basic","beginner","advanced","advanced",1,0,1,1,"2026-04-17 18:14:00 EDT",96.4,4
+"sim_A_043","A","2026-04-17 16:37:04 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 16:38:46 EDT",102.6,3
+"sim_A_150","A","2026-04-17 09:20:40 EDT","job","basic","standard","standard","standard",1,1,0,1,"2026-04-17 09:22:17 EDT",97.7,4
+"sim_B_191","B","2026-04-17 12:19:07 EDT","personal","none","beginner","standard","standard",0,,,1,"2026-04-17 12:21:23 EDT",136.1,3
+"sim_B_012","B","2026-04-17 15:42:02 EDT","switch","intermediate","standard","standard","standard",0,,,1,"2026-04-17 15:43:07 EDT",65.4,5
+"sim_A_039","A","2026-04-17 11:35:47 EDT","academic","basic","standard","beginner","beginner",1,0,1,1,"2026-04-17 11:37:39 EDT",112,3
+"sim_B_117","B","2026-04-17 12:26:43 EDT","job","advanced","advanced","standard","standard",0,,,1,"2026-04-17 12:27:01 EDT",18,4
+"sim_B_095","B","2026-04-17 14:39:03 EDT","personal","intermediate","standard","standard","standard",0,,,1,"2026-04-17 14:40:12 EDT",69,4
+"sim_B_139","B","2026-04-17 17:03:25 EDT","job","basic","standard","standard","standard",0,,,1,"2026-04-17 17:05:48 EDT",143.6,4
+"sim_B_047","B","2026-04-17 11:38:49 EDT","academic","intermediate","standard","","",0,,,0,"",,
+"sim_A_063","A","2026-04-17 12:15:51 EDT","academic","none","beginner","","",1,,,0,"",,
+"sim_B_145","B","2026-04-17 13:21:52 EDT","academic","advanced","advanced","advanced","advanced",0,,,1,"2026-04-17 13:24:41 EDT",169,5
+"sim_B_106","B","2026-04-17 18:00:39 EDT","job","basic","beginner","","",0,,,0,"",,
+"sim_A_166","A","2026-04-17 18:01:12 EDT","academic","basic","standard","","",1,,,0,"",,
+"sim_A_145","A","2026-04-17 15:11:10 EDT","job","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 15:12:23 EDT",73.1,5
+"sim_B_161","B","2026-04-17 12:41:47 EDT","personal","intermediate","standard","standard","standard",0,,,1,"2026-04-17 12:43:54 EDT",127.6,5
+"sim_A_135","A","2026-04-17 18:34:17 EDT","academic","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 18:35:22 EDT",65.7,4
+"sim_B_113","B","2026-04-17 16:40:07 EDT","job","none","beginner","","",0,,,0,"",,
+"sim_A_128","A","2026-04-17 11:34:35 EDT","academic","basic","standard","standard","standard",1,1,0,1,"2026-04-17 11:36:07 EDT",92.6,4
+"sim_B_023","B","2026-04-17 17:40:17 EDT","job","basic","advanced","","",0,,,0,"",,
+"sim_A_028","A","2026-04-17 18:30:06 EDT","academic","basic","beginner","advanced","advanced",1,0,1,1,"2026-04-17 18:31:02 EDT",56.6,2
+"sim_B_038","B","2026-04-17 16:45:36 EDT","job","none","beginner","","",0,,,0,"",,
+"sim_B_119","B","2026-04-17 18:34:54 EDT","job","basic","standard","","",0,,,0,"",,
+"sim_A_064","A","2026-04-17 18:06:44 EDT","job","basic","beginner","beginner","beginner",1,1,0,1,"2026-04-17 18:08:41 EDT",117.9,5
+"sim_A_103","A","2026-04-17 17:16:34 EDT","academic","basic","standard","","",1,,,0,"",,
+"sim_B_132","B","2026-04-17 11:13:18 EDT","academic","none","beginner","beginner","beginner",0,,,1,"2026-04-17 11:15:47 EDT",149,4
+"sim_B_032","B","2026-04-17 13:46:05 EDT","job","advanced","advanced","advanced","advanced",0,,,1,"2026-04-17 13:47:43 EDT",98.5,3
+"sim_B_021","B","2026-04-17 10:35:30 EDT","personal","advanced","advanced","advanced","advanced",0,,,1,"2026-04-17 10:37:04 EDT",94.6,5
